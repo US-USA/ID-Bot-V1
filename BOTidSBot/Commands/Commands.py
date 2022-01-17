@@ -12,11 +12,11 @@ JOIN=Translation.JOIN_TEXT # Button Text (Update Channel)
 TRY=Translation.TRY_TEXT # Button Text (Update Channel)
 SUB_TEXT=Translation.FSUB_TEXT # FSUB Information Text
 
-developer="Mrk_yt"
+developer="us7a5"
 co_developer="us7a5"
 source="https://github.com/Bottom-T/ID-Bot-V1"
-mt_chat="mo_tech_group"
-mt_bot="mo_tech_yt"
+mt_chat="us7a5"
+mt_bot="us7a5"
 
 @BOTidSBot.on_message(filters.private & filters.command("start"))
 async def start_handler(motech, update):

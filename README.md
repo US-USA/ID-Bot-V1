@@ -10,7 +10,7 @@
 
 # Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/ID-Bot-V1/tree/main"><img src="https://github.com/Bottom-T/Buttons/blob/Bottom-T/heroku/herokudeploy-01.svg" alt="Bottom-T" border="0" height="125" width="200" align="center" /></a>
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bottom-T/ID-Bot-V1)
 
 # Deploy To Railway
 

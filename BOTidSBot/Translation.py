@@ -45,7 +45,7 @@ class Translation(object):
 
 <u>❣️ 𝐘𝐨𝐮𝐓𝐮𝐛𝐞</u> : <a href='https://youtube.com/channel/UCe-gwa48GwgTIE7T5fmpbJw'>𝐘𝐨𝐮𝐓𝐮𝐛𝐞</a>
 
-<u>🔘 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞</u> : <a href='{}'>𝐏𝐫𝐞𝐬𝐬 𝐌𝐞🙃</a>
+<u>🔘 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞</u> : <a href='{}'>𝐏𝐫𝐞𝐬𝐬 𝐌𝐞 🔮</a>
 """
 
     JOIN_TEXT = """

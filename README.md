@@ -39,5 +39,5 @@
 
 * **[Pyrogram](https://docs.pyrogram.org/)**
 * **[Bottom-T](https://github.com/Bottom-T)** Developer
- Added [Sticker Id](https://github.com/Bottom-T/ID-Bot-V1/blob
+ Added 
 

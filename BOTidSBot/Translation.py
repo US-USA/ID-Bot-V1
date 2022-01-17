@@ -37,13 +37,13 @@ class Translation(object):
 
 <u>👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</u> : <a href='t.me/{}'>𝐮𝐬𝟕𝐚𝟓</a>
 
-<u>👨‍💻 𝐂𝐨 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</u> : <a href='https://t.me/{}' >𝐮𝐬𝟕𝐚𝟓</a>
+<u>👨‍💻 𝐂𝐨 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</u> : <a href='https://t.me/{}' >𝐮𝐬𝐚</a>
 
-<u>👥 𝐆𝐫𝐨𝐮𝐩</u> :   <a href='t.me/{}'>𝐮𝐬𝟕𝐚𝟓</a>
+<u>👥 𝐆𝐫𝐨𝐮𝐩</u> :   <a href='t.me/{}'>𝐀𝐦𝐞𝐫𝐢𝐜𝐚</a>
  
-<u>📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥</u> : <a href='t.me/{}'>𝐮𝐬𝟕𝐚𝟓</a>
+<u>📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥</u> : <a href='t.me/{}'>𝐍𝐞𝐰 𝐘𝐨𝐫𝐤</a>
 
-<u>❣️ 𝐘𝐨𝐮𝐓𝐮𝐛𝐞</u> : <a href='https://youtube.com/channel/UCe-gwa48GwgTIE7T5fmpbJw'>𝐮𝐬𝟕𝐚𝟓</a>
+<u>❣️ 𝐘𝐨𝐮𝐓𝐮𝐛𝐞</u> : <a href='https://youtube.com/channel/UCe-gwa48GwgTIE7T5fmpbJw'>𝐘𝐨𝐮𝐓𝐮𝐛𝐞</a>
 
 <u>🔘 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞</u> : <a href='{}'>𝐏𝐫𝐞𝐬𝐬 𝐌𝐞🙃</a>
 """

@@ -35,9 +35,9 @@ class Translation(object):
 
 <u>🧰 𝐅𝐫𝐚𝐦𝐞𝐖𝐨𝐫𝐤</u> : <a href='https://github.com/pyrogram/pyrogram'>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-<u>👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</u> : <a href='t.me/{}'>@𝐮𝐬𝟕𝐚𝟓</a>
+<u>👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</u> : <a href='t.me/{}'>𝐮𝐬𝟕𝐚𝟓</a>
 
-<u>👨‍💻 𝐂𝐨 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</u> : <a href='https://t.me/{}' >@𝐮𝐬𝟕𝐚𝟓</a>
+<u>👨‍💻 𝐂𝐨 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</u> : <a href='https://t.me/{}' >𝐮𝐬𝟕𝐚𝟓</a>
 
 <u>👥 𝐆𝐫𝐨𝐮𝐩</u> :   <a href='t.me/{}'>𝐮𝐬𝟕𝐚𝟓</a>
  

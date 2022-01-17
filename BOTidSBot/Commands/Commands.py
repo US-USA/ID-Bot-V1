@@ -2,9 +2,9 @@ from pyrogram import filters
 from pyrogram import Client as BOTidSBot
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.errors import UserNotParticipant
-from MT_ID_Bot.Translation import Translation
-from MT_ID_Bot.Config import Config
-from MT_ID_Bot.Commands.Buttons import START_BUTTON, HELP_BUTTON, ABOUT_BUTTON
+from BOTidSBot.Translation import Translation
+from BOTidSBot.Config import Config
+from BOTidSBot.Commands.Buttons import START_BUTTON, HELP_BUTTON, ABOUT_BUTTON
 
 UPDATE_CHANNEL=Config.UPDATE_CHANNEL # Update Channel Forces Subscribe
 BOT_USERNAME=Config.BOT_USERNAME # ReStart Option 

@@ -1,7 +1,6 @@
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 
 START_BUTTON = InlineKeyboardMarkup( [[
-       InlineKeyboardButton("🪧 𝐋𝐧𝐯𝐢𝐭𝐞 𝐓𝐡𝐞 𝐁𝐨𝐭 𝐓𝐨 𝐓𝐡𝐞 𝐆𝐫𝐨𝐮𝐩",  url=f"https://telegram.me/BOTidSBot?startgroup=start"),
        InlineKeyboardButton("💙 𝐁𝐘",  url=f"tg://openmessage?user_id=1257421053"),
        InlineKeyboardButton("🇺🇲 𝐁𝐘 ", url=f"tg://openmessage?user_id=2146813672")
        ],[

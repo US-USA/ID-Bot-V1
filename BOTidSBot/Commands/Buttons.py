@@ -6,6 +6,7 @@ START_BUTTON = InlineKeyboardMarkup( [[
        InlineKeyboardButton("🇺🇲 𝐁𝐘 ", url=f"tg://openmessage?user_id=2146813672")
        ],[
        InlineKeyboardButton("⬇️ 𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 ⬇️", callback_data="help")
+       InlineKeyboardButton("🪧 𝐋𝐧𝐯𝐢𝐭𝐞 𝐓𝐡𝐞 𝐁𝐨𝐭 𝐓𝐨 𝐓𝐡𝐞 𝐆𝐫𝐨𝐮𝐩",  url=f"https://telegram.me/BOTidSBot?startgroup=start"),
        ]]
        )
 

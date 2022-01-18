@@ -38,7 +38,6 @@
 # Thanks To
 
 * **[Pyrogram](https://docs.pyrogram.org/)**
-* **[Bottom-T](https://github.com/Bottom-T)** Developer
- Added 
+* **[Bottom-T](https://github.com/Bottom-T)** Follow 😢
 
 

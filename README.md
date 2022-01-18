@@ -14,7 +14,7 @@
 
 # Deploy To Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FBottom-T%2FID-Bot-V1&envs=API_HASH%2CAPI_ID%2CBOT_TOKEN%2CBOT_USERNAME%2CUPDATE_CHANNEL&optionalEnvs=BOT_USERNAME&API_HASHDesc=Your+API+Hash+From+https%3A%2F%2Fyoutu.be%2F5eEsvLAKVc0+or+%40BOTidSBot&API_IDDesc=Your+APP+ID+From+https%3A%2F%2Fyoutu.be%2F5eEsvLAKVc0+or+%40BOTidSBot&BOT_TOKENDesc=Your+Bot+Token+From+%40BotFather&BOT_USERNAMEDesc=Bot+UserName+From+%28https%3A%2F%2Fyoutu.be%2FcB4UduCcNWs%29+Without+%40&UPDATE_CHANNELDesc=Channel+User+Name+Without+%40+Eg+TE_GitHub&UPDATE_CHANNELDefault=TE_GitHub&referralCode=MoTech)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FBottom-T%2FID-Bot-V1&envs=API_HASH%2CAPI_ID%2CBOT_TOKEN%2CBOT_USERNAME%2CUPDATE_CHANNEL&optionalEnvs=BOT_USERNAME&API_HASHDesc=Your+API+Hash+From+https%3A%2F%2Fyoutu.be%2F5eEsvLAKVc0+or+%40BOTidSBot&API_IDDesc=Your+APP+ID+From+https%3A%2F%2Fyoutu.be%2F5eEsvLAKVc0+or+%40BOTidSBot&BOT_TOKENDesc=Your+Bot+Token+From+%40BotFather&BOT_USERNAMEDesc=Bot+UserName+From+%28https%3A%2F%2Fyoutu.be%2FcB4UduCcNWs%29+Without+%40&UPDATE_CHANNELDesc=Channel+User+Name+Without+%40+TE_GitHub&UPDATE_CHANNELDefault=TE_GitHub&referralCode=MoTech)
 
 # Confings
 

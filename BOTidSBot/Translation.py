@@ -1,8 +1,9 @@
 class Translation(object):
-
+"""
+LEGEND_PIC = "https://telegra.ph/file/17da89e24455b3f6ded3c.jpg"
     START_MSG = """
 👋𝐇𝐞𝐲 {},
-
+"""
 𝐈𝐚𝐦 𝐚 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐭 𝐅𝐨𝐫 𝐅𝐢𝐧𝐝𝐢𝐧𝐠 𝐈𝐃𝐬 𝐢𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦.. 🔍 🆔
 
 𝐂𝐥𝐢𝐜𝐤 𝐭𝐡𝐞 𝐇𝐞𝐥𝐩 𝐁𝐮𝐭𝐭𝐨𝐧 𝐨𝐫 /help 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧
@@ -46,7 +47,7 @@ class Translation(object):
 <u>❣️ 𝐘𝐨𝐮𝐓𝐮𝐛𝐞</u> : <a href='https://youtube.com/channel/UCe-gwa48GwgTIE7T5fmpbJw'>𝐘𝐨𝐮𝐓𝐮𝐛𝐞</a>
 
 """
-
+LEGEND_PIC = "https://te.legra.ph/file/a6becafdb6bccfc0bc71e.mp4"
     JOIN_TEXT = """
 📢 𝐉𝐨𝐢𝐧 𝐌𝐲 𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 📢
 """

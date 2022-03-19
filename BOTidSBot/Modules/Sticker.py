@@ -21,10 +21,10 @@ async def stickerid(bot, message):
         try:
             user = await motech.get_chat_member(update_channel, update.chat.id)
             if user.status == "kicked out":
-               await update.reply_text("🔮 Sorry Dude, You are **🅤︎🅢︎🅐︎ 🇺🇸**")
+               await update.reply_text("🔮 𝚂𝙾𝚁𝚁𝚈 𝙳𝚄𝙳𝙴, 𝚈𝙾𝚄 𝙰𝚁𝙴 **🅤︎🅢︎🅐︎ 🇺🇸**")
                return
         except UserNotParticipant:
-            #await update.reply_text(f"Join @{Channel User Name} To Use Me") From Motech.py
+            #await update.reply_text(f"𝙹𝙾𝙸𝙽 @{Channel User Name} 𝚃𝙾 𝚄𝚂𝙴 𝙼𝙴") From Motech.py
             await update.reply_text(
                 text=f"<b>{SUB_TEXT}</b>",
                 reply_markup=InlineKeyboardMarkup([
@@ -37,7 +37,7 @@ async def stickerid(bot, message):
             await update.reply_text(f"@{UPDATE_CHANNEL}")
             return  
     if message.reply_to_message.sticker:
-       await message.reply(f"**𝐘𝐨𝐮𝐫 𝐬𝐭𝐢𝐜𝐤𝐞𝐫𝐬 𝐢𝐝 𝐢𝐬**  \n `{message.reply_to_message.sticker.file_id}` \n \n ** Unique ID is ** \n\n`{message.reply_to_message.sticker.file_unique_id}`", quote=True)
+       await message.reply(f"**𝚈𝙾𝚄𝙰 𝚂𝚃𝙸𝙴𝙲𝙺𝙴𝚂 𝙸𝙳 𝙸𝚂 **  \n `{message.reply_to_message.sticker.file_id}` \n \n ** Unique ID is ** \n\n`{message.reply_to_message.sticker.file_unique_id}`", quote=True)
     else: 
-       await message.reply("𝐇𝐦𝐦𝐦 𝐢𝐭'𝐬 𝐧𝐨𝐭 𝐚 𝐬𝐭𝐢𝐜𝐤𝐞𝐫...!!!")
+       await message.reply(" 𝙷𝙼𝙼𝙼 𝙸𝚃'𝚂 𝙽𝙾𝚃 𝙰 𝚂𝚃𝙸𝙲𝙺𝚆𝚁...!!!")
     

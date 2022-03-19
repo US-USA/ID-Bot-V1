@@ -2,7 +2,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQ
 
 START_BUTTON = InlineKeyboardMarkup( [[
        InlineKeyboardButton("💛 𝙱𝚈",  url=f"tg://openmessage?user_id=1257421053"),
-       InlineKeyboardButton("🇺🇲 𝙱𝚈", url=(f"tg://openmessage?user_id=2146813672")
+       InlineKeyboardButton("🇺🇲 𝙱𝚈", url=f"tg://openmessage?user_id=2146813672")
        ],[
        InlineKeyboardButton("⬇️ 𝙼𝙾𝚁𝙴 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 ⬇️", callback_data="help")
        ],[

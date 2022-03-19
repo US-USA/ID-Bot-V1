@@ -11,8 +11,8 @@ START_BUTTON = InlineKeyboardMarkup( [[
        )
 
 HELP_BUTTON = InlineKeyboardMarkup( [[
-       InlineKeyboardButton("𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐈𝐝", callback_data="id"),
-       InlineKeyboardButton("𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐈𝐧𝐟𝐨", callback_data="info")
+       InlineKeyboardButton("𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙸𝙳", callback_data="id"),
+       InlineKeyboardButton("𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙸𝙽𝙵𝙾", callback_data="info")
        ],[
        InlineKeyboardButton("🏠 𝙷𝙾𝙼𝙴", callback_data="start"),
        InlineKeyboardButton("⬇️ 𝙲𝙻𝙾𝚂𝙴", callback_data="close"),

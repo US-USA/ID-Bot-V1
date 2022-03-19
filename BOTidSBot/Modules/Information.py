@@ -19,7 +19,7 @@ async def id_handler(motech, update):
         try:
             user = await motech.get_chat_member(update_channel, update.chat.id)
             if user.status == "kicked out":
-               await update.reply_text("🔮 Sorry Dude, You are **🅤︎🅢︎🅐︎ 🇺🇸**")
+               await update.reply_text("🔮 𝚂𝙾𝚁𝚁𝚈 𝙳𝚄𝙳𝙴, 𝚈𝙾𝚄 𝙰𝚁𝙴 **🅤︎🅢︎🅐︎ 🇺🇸**")
                return
         except UserNotParticipant:
             #await update.reply_text(f"Join @{Channel User Name} To Use Me") From Motech.py
@@ -49,7 +49,7 @@ async def info_handler(motech, update):
         try:
             user = await motech.get_chat_member(update_channel, update.chat.id)
             if user.status == "kicked out":
-               await update.reply_text("🔮 Sorry Dude, You are **🅤︎🅢︎🅐︎ 🇺🇸**")
+               await update.reply_text("🔮 𝚂𝙾𝚁𝚁𝚈 𝙳𝚄𝙳𝙴, 𝚈𝙾𝚄 𝙰𝚁𝙴 **🅤︎🅢︎🅐︎ 🇺🇸**")
                return
         except UserNotParticipant:
             #await update.reply_text(f"Join @{Channel User Name} To Use Me") From Motech.py

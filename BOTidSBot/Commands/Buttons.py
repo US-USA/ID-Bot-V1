@@ -6,7 +6,7 @@ START_BUTTON = InlineKeyboardMarkup( [[
        ],[
        InlineKeyboardButton("⬇️ 𝙼𝙾𝚁𝙴 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 ⬇️", callback_data="help")
        ],[
-       InlineKeyboardButton("★ 𝚂𝙷𝙰𝚁𝙴 ★",  url=f"https://telegram.me/share/url?text=╭──────༺♡༻──────╮\n𝙱𝙾𝚃 𝚄𝚂𝙴𝚁 𝙸𝙳 𝙸𝙽𝙻𝙺 ➙  @BOTidSBot\n╰──────༺♡༻──────╯")
+       InlineKeyboardButton("★ 𝚂𝙷𝙰𝚁𝙴 ★",  url=f"https://telegram.me/share/url?text=𝙱𝙾𝚃 𝚄𝚂𝙴𝚁 𝙸𝙳 𝙸𝙽𝙻𝙺 ➙ @BOTidSBot")
        ]]
        )
 

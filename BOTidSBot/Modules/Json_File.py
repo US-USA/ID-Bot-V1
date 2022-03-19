@@ -7,7 +7,7 @@ from BOTidSBot.Modules.Buttons import JSON_BUTTON
 async def response_json(bot, update):
     json = update.reply_to_message
     with BytesIO(str.encode(str(json))) as json_file:
-        json_file.name = "JSON.text"
+        json_file.name = "𝙹𝚂𝙾𝙽🐒🤎.text"
         await json.reply_document(
             document=json_file,
             reply_markup=JSON_BUTTON,

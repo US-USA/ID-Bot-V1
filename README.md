@@ -3,7 +3,7 @@
 
 
 **Telegram Id Finder Bot**
-
+**@botidsbot**
 # Deploy To Heroku
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bottom-T/ID-Bot-V1)
@@ -18,8 +18,8 @@
 * `API_ID` from [@BOTidSBot](https://youtu.be/5eEsvLAKVc0) or [Website {Video}](https://youtu.be/5eEsvLAKVc0)
 * `API_HASH` from [@MT_MyTelegramorg_Bot](https://youtu.be/5eEsvLAKVc0) or [Website {Video}](https://youtu.be/5eEsvLAKVc0)
 * `BOT_TOKEN` from [@BotFather {Main Video}](https://youtu.be/cB4UduCcNWs)
-* `UPDATE_CHANNEL` your main channel username without @
-* `BOT_USERNAME` your bot usename without @
+* `UPDATE_CHANNEL` your main channel username without @us7a5
+* `BOT_USERNAME` your bot usename without @botidsbot
 
 # BOT FEATURE
 
@@ -34,6 +34,6 @@
 # Thanks To
 
 * **[Pyrogram](https://docs.pyrogram.org/)**
-* **[Bottom-T](https://github.com/Bottom-T)** Follow 😢
+* **[Bottom-T](https://github.com/Bottom-T)** 
 
 

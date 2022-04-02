@@ -7,6 +7,8 @@ START_BUTTON = InlineKeyboardMarkup( [[
        InlineKeyboardButton("⬇️ 𝙼𝙾𝚁𝙴 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽 ⬇️", callback_data="help")
        ],[
        InlineKeyboardButton("★ 𝙽𝙴𝚆 𝚈𝙾𝚁𝙺 ★", url=f"https://t.me/us7a5")
+       ],[
+       InlineKeyboardButton("❌ 𝙲𝙻𝙾𝚂𝙴", callback_data="close")
        ]]
        )
 
@@ -15,7 +17,7 @@ HELP_BUTTON = InlineKeyboardMarkup( [[
        InlineKeyboardButton("𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙸𝙽𝙵𝙾", callback_data="info")
        ],[
        InlineKeyboardButton("🏠 𝙷𝙾𝙼𝙴", callback_data="start"),
-       InlineKeyboardButton("⬇️ 𝙲𝙻𝙾𝚂𝙴", callback_data="close"),
+       InlineKeyboardButton("❌ 𝙲𝙻𝙾𝚂𝙴", callback_data="close"),
        InlineKeyboardButton("🐸 𝙰𝙱𝙾𝚄𝚃", callback_data="about")
        ]]
        )
@@ -23,6 +25,6 @@ HELP_BUTTON = InlineKeyboardMarkup( [[
 ABOUT_BUTTON = InlineKeyboardMarkup( [[
        InlineKeyboardButton("🔙 𝙱𝙰𝙲𝙺", callback_data="help"),
        InlineKeyboardButton("🏠 𝙷𝙾𝙼𝙴", callback_data="start"),
-       InlineKeyboardButton("⬇️ 𝙲𝙻𝙾𝚂𝙴", callback_data="close")
+       InlineKeyboardButton("❌ 𝙲𝙻𝙾𝚂𝙴", callback_data="close")
        ]]
        )
